@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vosan/goit-js-hw-01#readme",
+  "bugs": {
+    "url": "https://github.com/vosan/goit-js-hw-01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vosan/goit-js-hw-01.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "prettier": "prettier --write '**/*.{html,css,js}'"
+  },
+  "dependencies": {
+    "prettier": "^3.8.2"
+  }
+}
